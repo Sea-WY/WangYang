@@ -47,8 +47,6 @@ You can use the [editor on GitHub](https://github.com/Sea-WY/Sea-WY.github.io/bl
 
 
 
-
-
 ## 硕士研究生  
 *哈尔滨理工大学  经济与管理学院*
 
@@ -85,6 +83,7 @@ You can use the [editor on GitHub](https://github.com/Sea-WY/Sea-WY.github.io/bl
 2020届“优秀毕业生”；“优秀毕业论文”、“优秀团员”、“优秀学生干部”、“三好学生”荣誉称号。
 
 “科技活动先进个人”；GMC 全国二等奖、三等奖；第 18 届中国技术经济学会“优秀志愿者”。
+
 
 ## 2023
 

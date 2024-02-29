@@ -1,7 +1,7 @@
 # Yang Wang's Homepage
 
-
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=(%22Hello%2C%20World!%22);小汪博士祝您诸事顺遂!&center=true&size=27"> </a> </h1>
+
 这是我的主页
 
 You can use the [editor on GitHub](https://github.com/Sea-WY/Sea-WY.github.io/blob/main/index.md) to maintain and preview the content for your website in Markdown files.

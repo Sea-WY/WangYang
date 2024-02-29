@@ -83,113 +83,40 @@ You can use the [editor on GitHub](https://github.com/Sea-WY/Sea-WY.github.io/bl
 
 “科技活动先进个人”；GMC 全国二等奖、三等奖；第 18 届中国技术经济学会“优秀志愿者”。
 
+## 2023
+
+### 讲座
+[发展中国家现代化过程中的一般经济规律](https://mp.weixin.qq.com/s/SL7OmijlUlS1DWkOYHfY5Q)  （黄少安  2023年10月11日）
+
+[经世济民大讲坛:从向心城市到线上城市](https://mp.weixin.qq.com/s/8Tpf3RmfDAu-qr56Y_SpJw)  （陆铭  2023年10月21日）
+
+[城乡融合研究专题学术沙龙](https://mp.weixin.qq.com/s/Y32UpGlG3u-b_UKeGI6F1g)  （陆铭--大国的城乡融合：城市化和相关改革的进展与问题；郭冬梅--城市房价与留守儿童）
+
+博士生学术道德和科研创新专题会议（2023年11月3日）
+
+[经世济民大讲坛：学深 悟透 做实习近平总书记关于“三农”工作的重要论述](https://mp.weixin.qq.com/s/0YVm0EXDeehb_ya6WLJ1lA)  （金文成 2023年12月01日）
 
 
-# 书籍
+### 调研
+[经济学拔尖基地师生深入数字农业企业开展“切问笃行”系列实践调研活动](https://mp.weixin.qq.com/s/6nRt4_76XgYJHc2Huw8YZg)
 
-## [量化宏观经济学导论及Julia 应用：从基础计算方法到前沿领域](https://detail.tmall.com/item.htm?abbucket=20&id=697717641388&ns=1&spm=a230r.1.14.3.565c3cf0U5qmWb&skuId=5112229702629)[**replication files**](https://github.com/wenddymacro/-julia-)
+[探索“城市-乡村”要素融合促进乡村振兴新模式——北京市“百千工程”示范村辛庄村调研纪实](https://mp.weixin.qq.com/s/DhCQkH6Rj3yXI8o5UAx9mQ)
 
-**内容提要**：本书将向大家呈现数值方法，尤其是量化宏观经济学中使用的一些数值方法：解确定性和随机性方程组、对数线性化、模拟DSGE 模型、动态规划，以及包含扰动法、投影法和参数化期望法在内的多个高级数值方法。本书也涵盖了最近的异质性代理人模型中使用的一些工具、方法。本书最大的优势在于理论和实践应用的平衡。虽然，上述一些著作也包含理论的应用，但是本书首次向读者介绍了利用Julia 的代码来计算数值。Julia 是一种免费、开源的编程语言。通过Julia，读者可以迅速学习如何解宏观经济模型，并用编程语言来实现定量分析。
+[《学探寻京郊乡村产业现代化发展模式--以平谷峪口镇东樊各庄村为例》调研](https://mp.weixin.qq.com/s/TY7MyAFzyA1ZnrnFHx5k7Q)
 
-## [推动绿色发展：中国环境宏观经济理论与政策研究](https://detail.tmall.com/item.htm?abbucket=20&id=696547552265&ns=1&spm=a230r.1.14.16.d49634ffRm0uoB)[**replication files**](https://github.com/wenddymacro/Tui-Dong-lve-Se-Fa-Zhan)
-
-**内容提要**：
-
-## Work in progress
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[“我来雄安了”—首都大学生雄安行](https://mp.weixin.qq.com/s/mCQLrA0ZZuJ5zciYKrcihA)
 
 
-# Teaching
-## Green Finance and Macroeconomics
+### 论坛
+[中国青年农业经济学家论坛暨北京农业经济学会与山东省乡村振兴研究会2023联合年会](https://mp.weixin.qq.com/s/1oSxudDCfU-sfmmEhy0eaA)   海报展示
 
-2021-08：coming soon
+[第五届中国城市经济学者论坛（2023）](https://mp.weixin.qq.com/s/29Qgmbb7MAL01S4h8yQSCg)  旁听学习
 
-## DSGE入门
-
-2019-05:[《DSGE建模与编程入门》](https://github.com/wenddymacro/Wenddy-XU/blob/main/%E8%AF%BE%E7%A8%8B%E6%9D%90%E6%96%99/DSGE%E5%85%A5%E9%97%A8-%E8%AE%B8%E6%96%87%E7%AB%8B20190118-20.pdf)[【课程大纲】](https://github.com/wenddymacro/Wenddy-XU/blob/main/%E8%AF%BE%E7%A8%8B%E6%9D%90%E6%96%99/DSGE%E6%95%99%E5%AD%A6%E5%A4%A7%E7%BA%B2-2019%E5%B9%B45%E6%9C%88%E7%89%88.docx)
+[中央财经大学经济学科建设高峰论坛](https://mp.weixin.qq.com/s/MoM0qPo4l3DqNTbkjW7fSg)  旁听学习
 
 
 
-## 应用计量经济学讲稿
-
-[《应用计量经济学讲稿》](https://github.com/wenddymacro/AppliedEconometrics/blob/main/AppliedEconometrics.pdf) [【配套数据和dofile】](https://github.com/wenddymacro/paper/tree/main/%E7%BB%8F%E5%85%B8DID%20dofile)
-
-本课程试图引导本科生或一年级研究生了解当代计量经济学的现状，并掌握一些常用的微观计量与宏观计量理论与操作，学习Stata与通用编程语言的一些基本知识。
-
-本课程要求你们已经熟悉初级宏微观经济学知识，并对多重微积分、概率论、线性代数和数理统计有一定程度的理解。相关数学与统计基础可参见许文立和许坤的微信公众号”宏观经济研学会“。如果你们曾经学习过一些计量经济学的知识，上本课程效果更佳。但计量知识并不是必需的。推荐一本非常好的本科计量教科书：Wooldridge (2015)、Stock and Watson （2015）。
-
-[11种交叠处理DID稳健估计量](https://github.com/wenddymacro/eleven_estimators_staggered_DID)
-
-For using and plotting multiple DiD packages in Stata, the event_plot command (ssc install event_plot, replace) by Kirill Borusyak  is highly recommended. It estimates and combines results from five different estimators. Example of how to do event study plots using different packages is given in the five_estimators_example.do dofile on [Github](https://github.com/borusyak/did_imputation/blob/main/five_estimators_example.do)
-
-The event_plot usage example has been extended three:
-
-（1）David Burgherr  has a dofile on [dropbox](https://www.dropbox.com/s/p5i94ryf4h9o335/five_estimators_example_adapted.do?dl=0).
-
-（2）Pietro Santoleri  has a dofile  that plots seven different estimators on [Github](https://github.com/pietrosantoleri/staggered_did).
-
- (3) Albert Alex Zevelev has a dofile  that plots seven different estimators w/o heterogeneous treatment effects on [Github](https://github.com/azev77/Compare-DiD-Estimators).
-
-Wenli Xu has extended Compare-DiD-Estimators to include jwdid, IFE, MC  and SDID. The dofile plots eleven different estimators on [Github](https://wenddymacro.github.io/Wenddy-XU/).
-
-NOTE: In addition to the above DID estimators, there are flexpaneldid(Eva Dettmann, Alexander Giebler, Antje Weyh (2020). Flexpaneldid: A Stata Toolbox for Causal Analysis with Varying Treatment Time and Duration. IWH Discussion Papers No. 3/2020.) and staggered_stata(Jonathan Roth , Pedro H.C. Sant'Anna  (2021). Efficient Estimation for Staggered Rollout Designs) in STATA to address the heterogeneous treatment effects on  staggered DID. But the former yields a single ATT estimator, and the latter is used with R, so they are not included in my dofile.
-
-2022-03-28
-
-Anhui University & Simon Fraser university
-
-# 安徽大学课程
-## 2022
-
-### [《应用计量经济学slides》](https://github.com/wenddymacro/AppliedEconometrics/blob/main/%E5%BA%94%E7%94%A8%E8%AE%A1%E9%87%8F%E7%BB%8F%E6%B5%8E%E5%AD%A6slides.pdf)
-
-# Short Course
-## 2019
-
-2019年4月     《DSGE简介》1天课程     北京大学经济学院
-
-2019年7月     《DSGE建模与编程入门》5天短期课程    中国人民大学经济学院
-
-2019年11月    《动态随机一般均衡DSGE模型及量化宏观经济》    国家外汇管理局
-
-## 2021
-
-2021年11-12月    《绿色金融与DSGE建模及dynare编程》     华中师范大学金融系
-
-## 2022
-
-2022年3月31号    《DSGE及dynare和Stata编程导论》     北京大学经济学院
-
-[《DSGE及dynare和Stata编程导论》](https://github.com/wenddymacro/DSGE_pku/blob/main/DSGE%20intro_PKU%20Econ.%20School.pdf)[【dynare和stata代码】](https://github.com/wenddymacro/DSGE_pku/tree/main/code%20and%20data)
-
-2022年9月-12月    《DID应用文献解读》     安徽大学经济学院
-
-[《DID应用文献解读》](https://github.com/wenddymacro/notes_on-DID-Applications/blob/main/22%E8%B4%A2%E6%94%BF%E6%B1%87%E6%8A%A5%E6%89%8B%E7%A8%BF.pdf)[【stata代码】](https://github.com/wenddymacro/notes_on-DID-Applications)
 
 
-# CIMERS
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wenddymacro/Wenddy-XU/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

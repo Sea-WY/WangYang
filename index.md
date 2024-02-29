@@ -1,11 +1,12 @@
 # Yang Wang's Homepage
-## Welcome to Sea_WY Pages
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=(%22Hello%2C%20World!%22);小汪同学祝您诸事顺遂!&center=true&size=27"> </a> </h1>
 
 这是我的主页
 You can use the [editor on GitHub](https://github.com/Sea-WY/Sea-WY.github.io/blob/main/index.md)to maintain and preview the content for your website in Markdown files.
 
 
-## 博士研究生  (中央财经大学 经济学院）
+## 博士研究生   
+*中央财经大学  经济学院*
 
 ### 一、学术论文
 [***新型城镇化对扩大内需的影响机制研究——中国257个地级以上城市的数据实证](https://github.com/Sea-WY/Sea-WY.github.io/blob/main/%E6%96%B0%E5%9E%8B%E5%9F%8E%E9%95%87%E5%8C%96%E5%AF%B9%E6%89%A9%E5%A4%A7%E5%86%85%E9%9C%80%E7%9A%84%E5%BD%B1%E5%93%8D...7%E4%B8%AA%E5%9C%B0%E7%BA%A7%E4%BB%A5%E4%B8%8A%E5%9F%8E%E5%B8%82%E7%9A%84%E6%95%B0%E6%8D%AE%E5%AE%9E%E8%AF%81_%E4%BA%8E%E7%88%B1%E8%8A%9D.pdf)    (with 于爱芝) [《城市发展研究》，2024(01)]
@@ -46,7 +47,8 @@ You can use the [editor on GitHub](https://github.com/Sea-WY/Sea-WY.github.io/bl
 
 
 
-## 硕士研究生  (哈尔滨理工大学 经济与管理学院）
+## 硕士研究生  
+*哈尔滨理工大学  经济与管理学院*
 
 ### 一、学术论文
 [***新型城镇化对加快构建“双循环”新发展格局的影响研究](https://github.com/Sea-WY/Sea-WY.github.io/blob/main/%E6%96%B0%E5%9E%8B%E5%9F%8E%E9%95%87%E5%8C%96%E5%AF%B9%E5%8A%A0%E5%BF%AB%E6%9E%84%E5%BB%BA%E2%80%9C%E5%8F%8C%E5%BE%AA%E7%8E%AF%E2%80%9D%E6%96%B0%E5%8F%91%E5%B1%95%E6%A0%BC%E5%B1%80%E7%9A%84%E5%BD%B1%E5%93%8D%E7%A0%94%E7%A9%B6_%E5%BC%A0%E4%BA%91%E8%BE%89.pdf)    (with 张云辉) [《城市问题》 本刊特稿，2021(02)]
@@ -84,7 +86,7 @@ You can use the [editor on GitHub](https://github.com/Sea-WY/Sea-WY.github.io/bl
 
 ## 2023
 
-### 讲座
+### 一、讲座
 [发展中国家现代化过程中的一般经济规律](https://mp.weixin.qq.com/s/SL7OmijlUlS1DWkOYHfY5Q)  （黄少安  2023年10月11日）
 
 [经世济民大讲坛:从向心城市到线上城市](https://mp.weixin.qq.com/s/8Tpf3RmfDAu-qr56Y_SpJw)  （陆铭  2023年10月21日）
@@ -96,7 +98,7 @@ You can use the [editor on GitHub](https://github.com/Sea-WY/Sea-WY.github.io/bl
 [经世济民大讲坛：学深 悟透 做实习近平总书记关于“三农”工作的重要论述](https://mp.weixin.qq.com/s/0YVm0EXDeehb_ya6WLJ1lA)  （金文成 2023年12月01日）
 
 
-### 调研
+### 二、调研
 [经济学拔尖基地师生深入数字农业企业开展“切问笃行”系列实践调研活动](https://mp.weixin.qq.com/s/6nRt4_76XgYJHc2Huw8YZg)
 
 [探索“城市-乡村”要素融合促进乡村振兴新模式——北京市“百千工程”示范村辛庄村调研纪实](https://mp.weixin.qq.com/s/DhCQkH6Rj3yXI8o5UAx9mQ)
@@ -106,7 +108,7 @@ You can use the [editor on GitHub](https://github.com/Sea-WY/Sea-WY.github.io/bl
 [“我来雄安了”—首都大学生雄安行](https://mp.weixin.qq.com/s/mCQLrA0ZZuJ5zciYKrcihA)
 
 
-### 论坛
+### 三、论坛
 [中国青年农业经济学家论坛暨北京农业经济学会与山东省乡村振兴研究会2023联合年会](https://mp.weixin.qq.com/s/1oSxudDCfU-sfmmEhy0eaA)   海报展示
 
 [第五届中国城市经济学者论坛（2023）](https://mp.weixin.qq.com/s/29Qgmbb7MAL01S4h8yQSCg)  旁听学习

@@ -3,7 +3,8 @@
 
 这是我的主页
 
-You can use the [editor on GitHub](https://github.com/Sea-WY/Sea-WY.github.io/edit/main/index.md]) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/Sea-WY/Sea-WY.github.io/index.md]) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/wenddymacro/Wenddy-XU/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 
 ## 2017

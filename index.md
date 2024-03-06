@@ -2,7 +2,7 @@
 
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=(%22Hello%2C%20World!%22);小汪博士祝您诸事顺遂!&center=true&size=27"> </a> </h1>
 
-这是我的主页
+这是我的主页  ![](https://komarev.com/ghpvc/?username=Sea-WY)
 
 You can use the [editor on GitHub](https://github.com/Sea-WY/Sea-WY.github.io/blob/main/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -43,8 +43,6 @@ You can use the [editor on GitHub](https://github.com/Sea-WY/Sea-WY.github.io/bl
 **新一轮土地改革能否实现强县富民**
 
 **研究发现：**（1）“三块地”试点政策能够显著提升县域经济和农户收入，起到了土地改革推动强县富民的政策成效，并且通过多种稳健性检验结果表明政策估计结果的可靠性。（2）通过地形起伏度构建工具变量也证明了土地改革成效；同时采用农村承包土地经营权抵押贷款试点、农民住房财产权抵押贷款试点和农村改革试验区等外生冲击事件检验也表明“三块地”试点政策的确起到了强县富民效果，不受其他政策影响。（3）机制检验中本文验证了“三块地”试点政策通过招商引资和产业结构优化实现县域经济壮大的政策效果，同时在县域经济发展壮大的过程中，居民财富积累和公共服务有效提供则切实提升了居民收入。（4）通过对“三块地”试点政策中土地征收、集体经营性建设用地入市以及宅基地制度改革的单列分析我们发现，三种政策均对强县富民都起到了显著促进作用。其中政策效果排序为：宅基地制度改革>集体经营性建设用地入市>土地征收。（5）本文将政府特征划分为两类，一类基于行政机构的密度，另一类分为行政区划的等级。通过对上述特征的分组回归发现，基层行政机构越密带来的土地细碎化，会严重阻碍土地要素市场化进程，土地流转的转手率越低，“三块地”试点政策的作用越小。此外，省辖县级市相较于县级市基础设施较为完善，生活设施配置高故而“三块地”试点政策效应难以显现。
-
-
 
 
 ## 硕士研究生  

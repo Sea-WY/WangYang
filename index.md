@@ -6,7 +6,7 @@
 
 You can use the [editor on GitHub](https://github.com/Sea-WY/Sea-WY.github.io/blob/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-You can use the [editor on Orc id](https://orcid.org/0000-0002-4391-9557)to maintain and preview the content for your website in Markdown files.
+You can use the [editor on  Orcid](https://orcid.org/0000-0002-4391-9557) to maintain and preview the content for your website in Markdown files.
 
 ## 博士研究生   
 *中央财经大学  经济学院*

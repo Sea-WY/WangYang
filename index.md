@@ -101,6 +101,8 @@
 
 ### 二、调研
 
+[经济学院开展红色实践暨党纪学习教育活动](https://mp.weixin.qq.com/s/O7KR7t_dDiRzad511IWXWQ) （参与活动 2024年4月17日）
+
 [“春意盎然香山行 馆学研行铭党恩”联学实践活动](https://mp.weixin.qq.com/s/EobJ376YJhcjb8pTesI3YA) （活动组织者 2024年4月13日）
 
 [“革命精神砺青春·强健体魄筑党魂”主题党日活动](https://econ.cufe.edu.cn/info/1060/7403.htm) （活动组织者 2024年3月23日）

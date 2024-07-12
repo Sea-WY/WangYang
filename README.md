@@ -117,6 +117,13 @@
 
 
 ### 二、调研
+
+[“重走萍乡红色之路，永葆经世济民本色”-经济学院党务工作骨干赴江西省萍乡市开展培训](https://mp.weixin.qq.com/s/EwEW6Lpk_IpRcYbI2DBL2w)
+
+[经济学院与江西省萍乡市安源区开展校企合作座谈会](https://mp.weixin.qq.com/s/OggkHypwMZNtBXVYH-cc2w)
+
+[经济学院赴江西省萍乡市访企拓岗](https://mp.weixin.qq.com/s/m4UaeprkcKEiZ2ddnlBM6g)
+
 [经济学拔尖基地师生深入数字农业企业开展“切问笃行”系列实践调研活动](https://mp.weixin.qq.com/s/6nRt4_76XgYJHc2Huw8YZg)
 
 [探索“城市-乡村”要素融合促进乡村振兴新模式——北京市“百千工程”示范村辛庄村调研纪实](https://mp.weixin.qq.com/s/DhCQkH6Rj3yXI8o5UAx9mQ)

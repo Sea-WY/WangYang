@@ -100,7 +100,7 @@
 
 ### 三、论坛
 
-[第七届未来经济学家论坛]([https://mp.weixin.qq.com/s/1oSxudDCfU-sfmmEhy0eaA](https://mp.weixin.qq.com/s/cTVVuY8e0ADAMt82ptwcuQ)) 分论坛汇报
+[第七届未来经济学家论坛](https://mp.weixin.qq.com/s/cTVVuY8e0ADAMt82ptwcuQ)  分论坛汇报
 
 [中国青年农业经济学家论坛暨北京农业经济学会与山东省乡村振兴研究会2023联合年会](https://mp.weixin.qq.com/s/1oSxudDCfU-sfmmEhy0eaA) 海报展示
 

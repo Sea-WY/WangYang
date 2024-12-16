@@ -20,6 +20,7 @@
 
 **关键词:** 		新型城镇化试点政策;扩大内需;多期DID;异质性处理效应
 
+
 [*2023年蛋鸡产业发展情况、未来发展趋势及建议](https://github.com/Sea-WY/Sea-WY.github.io/blob/main/2023%E5%B9%B4%E8%9B%8B%E9%B8%A1%E4%BA%A7%E4%B8%9A%E5%8F%91%E5%B1%95%E6%83%85%E5%86%B5%E3%80%81%E6%9C%AA%E6%9D%A5%E5%8F%91%E5%B1%95%E8%B6%8B%E5%8A%BF%E5%8F%8A%E5%BB%BA%E8%AE%AE_%E5%AD%99%E4%BB%8E%E4%BD%BC.pdf)    (with 孙从佼 于爱芝 杨宁) [《中国畜牧杂志》，2024(02)]
 
 **摘要:** 本文从国际和国内两方面总结了2023年蛋鸡产业生产与贸易概况，并归纳了我国蛋鸡产业技术研发的最新进展，包括遗传改良技术、营养与饲料技术、疾病防控技术、生产与环境控制技术、蛋品质量控制及加工技术等。此外，本文根据2023年度蛋鸡产业发展中存在的一些问题，结合蛋鸡产业下一年度发展趋势的展望，对2024年蛋鸡产业发展提出了相应建议。
@@ -51,10 +52,64 @@
 **研究发现：**（1）“三块地”试点政策能够显著提升县域经济和农户收入，起到了土地改革推动强县富民的政策成效，并且通过多种稳健性检验结果表明政策估计结果的可靠性。（2）通过地形起伏度构建工具变量也证明了土地改革成效；同时采用农村承包土地经营权抵押贷款试点、农民住房财产权抵押贷款试点和农村改革试验区等外生冲击事件检验也表明“三块地”试点政策的确起到了强县富民效果，不受其他政策影响。（3）机制检验中本文验证了“三块地”试点政策通过招商引资和产业结构优化实现县域经济壮大的政策效果，同时在县域经济发展壮大的过程中，居民财富积累和公共服务有效提供则切实提升了居民收入。（4）通过对“三块地”试点政策中土地征收、集体经营性建设用地入市以及宅基地制度改革的单列分析我们发现，三种政策均对强县富民都起到了显著促进作用。其中政策效果排序为：宅基地制度改革>集体经营性建设用地入市>土地征收。（5）本文将政府特征划分为两类，一类基于行政机构的密度，另一类分为行政区划的等级。通过对上述特征的分组回归发现，基层行政机构越密带来的土地细碎化，会严重阻碍土地要素市场化进程，土地流转的转手率越低，“三块地”试点政策的作用越小。此外，省辖县级市相较于县级市基础设施较为完善，生活设施配置高故而“三块地”试点政策效应难以显现。
 
 
+
 ### 四、获奖荣誉
 
 [“新质青年话发展 百场党课叙华章”2024年度研究生党支部书记微党课大赛 三等奖](https://oa.webvpn.cufe.edu.cn/seeyon/bulData.do?method=bulView&bulId=6169987106816216454&from=list&spaceType=&spaceId=)
-2023研究生新生学业奖学金
+
+[2023北京高校师生服务新时代首都发展“双百行动计划”优秀示范项目](https://mp.weixin.qq.com/s/F1qE-gy40DpEAjXISkhr-A)
+
+2024-2025学年 一等奖学金
+
+2023-2024学年 研究生新生学业奖学金
+
+
+##   2023-至今
+
+### 一、讲座
+
+[发展中国家现代化过程中的一般经济规律](https://mp.weixin.qq.com/s/SL7OmijlUlS1DWkOYHfY5Q)  （黄少安  2023年10月11日）
+
+[经世济民大讲坛:从向心城市到线上城市](https://mp.weixin.qq.com/s/8Tpf3RmfDAu-qr56Y_SpJw)  （陆铭  2023年10月21日）
+
+[城乡融合研究专题学术沙龙](https://mp.weixin.qq.com/s/Y32UpGlG3u-b_UKeGI6F1g)  （陆铭--大国的城乡融合：城市化和相关改革的进展与问题；郭冬梅--城市房价与留守儿童）
+
+博士生学术道德和科研创新专题会议（2023年11月3日）
+
+[经世济民大讲坛：学深 悟透 做实习近平总书记关于“三农”工作的重要论述](https://mp.weixin.qq.com/s/0YVm0EXDeehb_ya6WLJ1lA)  （金文成 2023年12月01日）
+
+
+### 二、调研
+
+[我是中国研究生，美丽中国研思行 | 我校研究生赴内蒙古巴彦淖尔开展“服务边疆”乡村振兴暑期社会实践活动](https://mp.weixin.qq.com/s/-tLqctbDA1vuNaYzq7ipMA)
+
+[“重走萍乡红色之路，永葆经世济民本色”-经济学院党务工作骨干赴江西省萍乡市开展培训](https://mp.weixin.qq.com/s/EwEW6Lpk_IpRcYbI2DBL2w)
+
+[经济学院与江西省萍乡市安源区开展校企合作座谈会](https://mp.weixin.qq.com/s/OggkHypwMZNtBXVYH-cc2w)
+
+[经济学院赴江西省萍乡市访企拓岗](https://mp.weixin.qq.com/s/m4UaeprkcKEiZ2ddnlBM6g)
+
+[经济学拔尖基地师生深入数字农业企业开展“切问笃行”系列实践调研活动](https://mp.weixin.qq.com/s/6nRt4_76XgYJHc2Huw8YZg)
+
+[探索“城市-乡村”要素融合促进乡村振兴新模式——北京市“百千工程”示范村辛庄村调研纪实](https://mp.weixin.qq.com/s/DhCQkH6Rj3yXI8o5UAx9mQ)
+
+[《学探寻京郊乡村产业现代化发展模式--以平谷峪口镇东樊各庄村为例》调研](https://mp.weixin.qq.com/s/TY7MyAFzyA1ZnrnFHx5k7Q)
+
+[“我来雄安了”—首都大学生雄安行](https://mp.weixin.qq.com/s/mCQLrA0ZZuJ5zciYKrcihA)
+
+
+### 三、论坛
+
+[第七届未来经济学家论坛]([https://mp.weixin.qq.com/s/1oSxudDCfU-sfmmEhy0eaA](https://mp.weixin.qq.com/s/cTVVuY8e0ADAMt82ptwcuQ)) 分论坛汇报
+
+[中国青年农业经济学家论坛暨北京农业经济学会与山东省乡村振兴研究会2023联合年会](https://mp.weixin.qq.com/s/1oSxudDCfU-sfmmEhy0eaA) 海报展示
+
+[第五届中国城市经济学者论坛（2023）](https://mp.weixin.qq.com/s/29Qgmbb7MAL01S4h8yQSCg)  旁听学习
+
+[中央财经大学经济学科建设高峰论坛](https://mp.weixin.qq.com/s/MoM0qPo4l3DqNTbkjW7fSg)  旁听学习
+
+
+
 
 
 
@@ -97,57 +152,12 @@
 
 
 ###  三、获奖荣誉
+
 **2023年黑龙江省普通高校“优秀毕业生”**；2023届“优秀研究生”；2020-2021学年“优秀研究生”；
 
 2020届“优秀毕业生”；“优秀毕业论文”、“优秀团员”、“优秀学生干部”、“三好学生”荣誉称号。
 
 “科技活动先进个人”；GMC 全国二等奖、三等奖；第 18 届中国技术经济学会“优秀志愿者”。
-
-
-
-
-
-
-##   2023-至今
-
-### 一、讲座
-[发展中国家现代化过程中的一般经济规律](https://mp.weixin.qq.com/s/SL7OmijlUlS1DWkOYHfY5Q)  （黄少安  2023年10月11日）
-
-[经世济民大讲坛:从向心城市到线上城市](https://mp.weixin.qq.com/s/8Tpf3RmfDAu-qr56Y_SpJw)  （陆铭  2023年10月21日）
-
-[城乡融合研究专题学术沙龙](https://mp.weixin.qq.com/s/Y32UpGlG3u-b_UKeGI6F1g)  （陆铭--大国的城乡融合：城市化和相关改革的进展与问题；郭冬梅--城市房价与留守儿童）
-
-博士生学术道德和科研创新专题会议（2023年11月3日）
-
-[经世济民大讲坛：学深 悟透 做实习近平总书记关于“三农”工作的重要论述](https://mp.weixin.qq.com/s/0YVm0EXDeehb_ya6WLJ1lA)  （金文成 2023年12月01日）
-
-
-### 二、调研
-
-[“重走萍乡红色之路，永葆经世济民本色”-经济学院党务工作骨干赴江西省萍乡市开展培训](https://mp.weixin.qq.com/s/EwEW6Lpk_IpRcYbI2DBL2w)
-
-[经济学院与江西省萍乡市安源区开展校企合作座谈会](https://mp.weixin.qq.com/s/OggkHypwMZNtBXVYH-cc2w)
-
-[经济学院赴江西省萍乡市访企拓岗](https://mp.weixin.qq.com/s/m4UaeprkcKEiZ2ddnlBM6g)
-
-[经济学拔尖基地师生深入数字农业企业开展“切问笃行”系列实践调研活动](https://mp.weixin.qq.com/s/6nRt4_76XgYJHc2Huw8YZg)
-
-[探索“城市-乡村”要素融合促进乡村振兴新模式——北京市“百千工程”示范村辛庄村调研纪实](https://mp.weixin.qq.com/s/DhCQkH6Rj3yXI8o5UAx9mQ)
-
-[《学探寻京郊乡村产业现代化发展模式--以平谷峪口镇东樊各庄村为例》调研](https://mp.weixin.qq.com/s/TY7MyAFzyA1ZnrnFHx5k7Q)
-
-[“我来雄安了”—首都大学生雄安行](https://mp.weixin.qq.com/s/mCQLrA0ZZuJ5zciYKrcihA)
-
-
-### 三、论坛
-[中国青年农业经济学家论坛暨北京农业经济学会与山东省乡村振兴研究会2023联合年会](https://mp.weixin.qq.com/s/1oSxudDCfU-sfmmEhy0eaA) 海报展示
-
-[第五届中国城市经济学者论坛（2023）](https://mp.weixin.qq.com/s/29Qgmbb7MAL01S4h8yQSCg)  旁听学习
-
-[中央财经大学经济学科建设高峰论坛](https://mp.weixin.qq.com/s/MoM0qPo4l3DqNTbkjW7fSg)  旁听学习
-
-
-
 
 
 

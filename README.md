@@ -30,7 +30,7 @@
 
 ###   二、参研课题、撰写报告
 
-20240825-[多元化主体参与：乌拉特前旗林果经济发展及优化理路](https://github.com/Sea-WY/Sea-WY.github.io/blob/%E6%8A%A5%E5%91%8A/%E5%A4%9A%E5%85%83%E5%8C%96%E4%B8%BB%E4%BD%93%E5%8F%82%E4%B8%8E%EF%BC%9A%E4%B9%8C%E6%8B%89%E7%89%B9%E5%89%8D%E6%97%97%E6%9E%97%E6%9E%9C%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E5%8F%8A%E4%BC%98%E5%8C%96%E7%90%86%E8%B7%AF.pdf)：第三届中央财经大学乡村振兴调研大赛调研报告汇编
+#20240825-[多元化主体参与：乌拉特前旗林果经济发展及优化理路](https://github.com/Sea-WY/Sea-WY.github.io/blob/%E6%8A%A5%E5%91%8A/%E5%A4%9A%E5%85%83%E5%8C%96%E4%B8%BB%E4%BD%93%E5%8F%82%E4%B8%8E%EF%BC%9A%E4%B9%8C%E6%8B%89%E7%89%B9%E5%89%8D%E6%97%97%E6%9E%97%E6%9E%9C%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E5%8F%8A%E4%BC%98%E5%8C%96%E7%90%86%E8%B7%AF.pdf)：第三届中央财经大学乡村振兴调研大赛调研报告汇编
 
 20240828-[影响农业科技创新体系整体效能核心问题](https://github.com/Sea-WY/Sea-WY.github.io/blob/%E6%8A%A5%E5%91%8A/%E5%BD%B1%E5%93%8D%E5%86%9C%E4%B8%9A%E7%A7%91%E6%8A%80%E5%88%9B%E6%96%B0%E4%BD%93%E7%B3%BB%E6%95%B4%E4%BD%93%E6%95%88%E8%83%BD%E6%A0%B8%E5%BF%83%E9%97%AE%E9%A2%98.pdf)：列入[农业农村部着力提升农业科技创新体系整体效能](http://www.njhs.moa.gov.cn/gzdt/202411/t20241126_6466918.htm)会议审议并原则通过
 
@@ -60,13 +60,13 @@
 
 ### 四、获奖荣誉
 
-*2024-2025学年 一等奖学金
+2024-2025学年 一等奖学金
 
 [“新质青年话发展 百场党课叙华章”2024年度研究生党支部书记微党课大赛 三等奖](https://oa.webvpn.cufe.edu.cn/seeyon/bulData.do?method=bulView&bulId=6169987106816216454&from=list&spaceType=&spaceId=)
 
 [2023北京高校师生服务新时代首都发展“双百行动计划”优秀示范项目](https://mp.weixin.qq.com/s/F1qE-gy40DpEAjXISkhr-A)
 
-*2023-2024学年 研究生新生学业奖学金
+2023-2024学年 研究生新生学业奖学金
 
 
 ##   2023-至今

@@ -1,8 +1,9 @@
-# Yang Wang's Homepage
+# Yang Wang's Homepage                   [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README-CN.md)
+
 
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=(%22Hello%2C%20World!%22);小汪博士祝您诸事顺遂!&center=true&size=27"> </a> </h1>
 
-这是我的主页  ![](https://github.com/Sea-WY/Sea-WY)
+这是我的主页  ![](https://github.com/Sea-WY/Sea-WY)  
 
 ![](https://github.com/Sea-WY/Sea-WY.github.io/blob/main/%E5%85%B6%E4%BB%96/github.svg)You can use the [editor on GitHub](https://github.com/Sea-WY/Sea-WY.github.io/blob/main/index.md) to maintain and preview the content for your website in Markdown files.
 

@@ -1,4 +1,4 @@
-# Yang Wang's Homepage                   [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](emoji.md)
+# Yang Wang's Homepage                   [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](Emoji.md)
 
 
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=(%22Hello%2C%20World!%22);小汪博士祝您诸事顺遂!&center=true&size=27"> </a> </h1>

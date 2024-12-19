@@ -87,7 +87,7 @@
 
 ### 二、调研
 
-[我是中国研究生，美丽中国研思行 | 我校研究生赴内蒙古巴彦淖尔开展“服务边疆”乡村振兴暑期社会实践活动](https://mp.weixin.qq.com/s/-tLqctbDA1vuNaYzq7ipMA)
+[我是中国研究生，美丽中国研思行：我校研究生赴内蒙古巴彦淖尔开展“服务边疆”乡村振兴暑期社会实践活动](https://mp.weixin.qq.com/s/-tLqctbDA1vuNaYzq7ipMA)
 
 [“重走萍乡红色之路，永葆经世济民本色”-经济学院党务工作骨干赴江西省萍乡市开展培训](https://mp.weixin.qq.com/s/EwEW6Lpk_IpRcYbI2DBL2w)
 

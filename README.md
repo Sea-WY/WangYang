@@ -84,7 +84,7 @@
 
 ### 二、调研
 
-【**20240726**】  [我是中国研究生，美丽中国研思行：我校研究生赴内蒙古巴彦淖尔开展“服务边疆”乡村振兴暑期社会实践活动](https://mp.weixin.qq.com/s/-tLqctbDA1vuNaYzq7ipMA)
+【**20240726**】  [我是中国研究生，美丽中国研思行：内蒙古巴彦淖尔开展“服务边疆”乡村振兴暑期社会实践活动](https://mp.weixin.qq.com/s/-tLqctbDA1vuNaYzq7ipMA)
 
 【**20240708**】  [经济学院与江西省萍乡市安源区开展校企合作座谈会](https://mp.weixin.qq.com/s/OggkHypwMZNtBXVYH-cc2w)
 

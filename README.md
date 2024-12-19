@@ -9,7 +9,7 @@
 
 ![](https://github.com/Sea-WY/Sea-WY.github.io/blob/main/%E5%85%B6%E4%BB%96/ORCIDiD_iconvector.svg) You can use the [editor on  Orcid](https://orcid.org/0000-0002-4391-9557) to maintain and preview the content for your website in Markdown files.
 
-## 博士研究生   
+## 博士研究生   :school_satchel:
 *中央财经大学  经济学院*
 
 
@@ -28,25 +28,8 @@
 **关键词:** 		蛋鸡产业;生产贸易;技术进展;发展趋势
 
 
-###  二、课题报告
 
-➣20240825-[多元化主体参与：乌拉特前旗林果经济发展及优化理路](https://github.com/Sea-WY/Sea-WY.github.io/blob/main/%E6%8A%A5%E5%91%8A/%E5%A4%9A%E5%85%83%E5%8C%96%E4%B8%BB%E4%BD%93%E5%8F%82%E4%B8%8E%EF%BC%9A%E4%B9%8C%E6%8B%89%E7%89%B9%E5%89%8D%E6%97%97%E6%9E%97%E6%9E%9C%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E5%8F%8A%E4%BC%98%E5%8C%96%E7%90%86%E8%B7%AF.pdf)：第三届中央财经大学乡村振兴调研大赛调研报告汇编
-
-➣20240828-[影响农业科技创新体系整体效能核心问题](https://github.com/Sea-WY/Sea-WY.github.io/blob/main/%E6%8A%A5%E5%91%8A/%E5%BD%B1%E5%93%8D%E5%86%9C%E4%B8%9A%E7%A7%91%E6%8A%80%E5%88%9B%E6%96%B0%E4%BD%93%E7%B3%BB%E6%95%B4%E4%BD%93%E6%95%88%E8%83%BD%E6%A0%B8%E5%BF%83%E9%97%AE%E9%A2%98.pdf)：列入[农业农村部着力提升农业科技创新体系整体效能](http://www.njhs.moa.gov.cn/gzdt/202411/t20241126_6466918.htm)会议审议并原则通过
-
-➣20240806-[加快农业科技成果转化应用模式研究](https://github.com/Sea-WY/Sea-WY.github.io/blob/main/%E6%8A%A5%E5%91%8A/%E5%8A%A0%E5%BF%AB%E5%86%9C%E4%B8%9A%E7%A7%91%E6%8A%80%E6%88%90%E6%9E%9C%E8%BD%AC%E5%8C%96%E5%BA%94%E7%94%A8%E6%A8%A1%E5%BC%8F%E7%A0%94%E7%A9%B6.pdf)：编入《现代农业产业技术体系-产业经济共性技术创新团队研究：任务重大政策研究任务报告汇编》
-
-➣20231214-[关于“村级组织负担重”问题的专题研究报告](https://github.com/Sea-WY/Sea-WY.github.io/blob/main/%E6%8A%A5%E5%91%8A/%E5%85%B3%E4%BA%8E%E2%80%9C%E6%9D%91%E7%BA%A7%E7%BB%84%E7%BB%87%E8%B4%9F%E6%8B%85%E9%87%8D%E2%80%9D%E9%97%AE%E9%A2%98%E7%9A%84%E4%B8%93%E9%A2%98%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A.pdf)：《乡村治理专题研究报告》项目汇编
-
-➣20230810-[资源匮乏型农业科技强国的国际经验](https://github.com/Sea-WY/Sea-WY.github.io/blob/main/%E6%8A%A5%E5%91%8A/%E8%B5%84%E6%BA%90%E5%8C%AE%E4%B9%8F%E5%9E%8B%E5%86%9C%E4%B8%9A%E7%A7%91%E6%8A%80%E5%BC%BA%E5%9B%BD%E7%9A%84%E5%9B%BD%E9%99%85%E7%BB%8F%E9%AA%8C.pdf)：编入《新时代农业科技强国的内涵特征及实现路径研究》课题汇编
-
-➣ 《探寻京郊乡村产业现代化发展模式--以平谷峪口镇东樊各庄村为例》课题：[2023北京高校师生服务新时代首都发展“双百行动计划”优秀示范项目](https://mp.weixin.qq.com/s/F1qE-gy40DpEAjXISkhr-A)
-
-
-➣ 《国家蛋鸡产业技术体系》项目，参与撰写《2023蛋鸡产业发展报告》
-
-
-### 三、工作论文
+### 二、工作论文 
 
 **有为政府能否实现安居乐业———基于行政审批中心建立的“准自然实验”** 
 
@@ -59,60 +42,70 @@
 
 
 
+### 三、课题报告
+
+
+
+【**20240825**】  [多元化主体参与：乌拉特前旗林果经济发展及优化理路](https://github.com/Sea-WY/Sea-WY.github.io/blob/main/%E6%8A%A5%E5%91%8A/%E5%A4%9A%E5%85%83%E5%8C%96%E4%B8%BB%E4%BD%93%E5%8F%82%E4%B8%8E%EF%BC%9A%E4%B9%8C%E6%8B%89%E7%89%B9%E5%89%8D%E6%97%97%E6%9E%97%E6%9E%9C%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E5%8F%8A%E4%BC%98%E5%8C%96%E7%90%86%E8%B7%AF.pdf)：第三届中央财经大学乡村振兴调研大赛调研报告汇编
+
+ 【**20240828**】  [影响农业科技创新体系整体效能核心问题](https://github.com/Sea-WY/Sea-WY.github.io/blob/main/%E6%8A%A5%E5%91%8A/%E5%BD%B1%E5%93%8D%E5%86%9C%E4%B8%9A%E7%A7%91%E6%8A%80%E5%88%9B%E6%96%B0%E4%BD%93%E7%B3%BB%E6%95%B4%E4%BD%93%E6%95%88%E8%83%BD%E6%A0%B8%E5%BF%83%E9%97%AE%E9%A2%98.pdf)：列入[农业农村部着力提升农业科技创新体系整体效能](http://www.njhs.moa.gov.cn/gzdt/202411/t20241126_6466918.htm)会议审议并原则通过
+
+【**20240806**】  [加快农业科技成果转化应用模式研究](https://github.com/Sea-WY/Sea-WY.github.io/blob/main/%E6%8A%A5%E5%91%8A/%E5%8A%A0%E5%BF%AB%E5%86%9C%E4%B8%9A%E7%A7%91%E6%8A%80%E6%88%90%E6%9E%9C%E8%BD%AC%E5%8C%96%E5%BA%94%E7%94%A8%E6%A8%A1%E5%BC%8F%E7%A0%94%E7%A9%B6.pdf)：编入《现代农业产业技术体系：任务重大政策研究任务报告汇编》
+
+【**20231214**】  [关于“村级组织负担重”问题的专题研究报告](https://github.com/Sea-WY/Sea-WY.github.io/blob/main/%E6%8A%A5%E5%91%8A/%E5%85%B3%E4%BA%8E%E2%80%9C%E6%9D%91%E7%BA%A7%E7%BB%84%E7%BB%87%E8%B4%9F%E6%8B%85%E9%87%8D%E2%80%9D%E9%97%AE%E9%A2%98%E7%9A%84%E4%B8%93%E9%A2%98%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A.pdf)：《乡村治理专题研究报告》项目汇编
+
+【**20230810**】  [资源匮乏型农业科技强国的国际经验](https://github.com/Sea-WY/Sea-WY.github.io/blob/main/%E6%8A%A5%E5%91%8A/%E8%B5%84%E6%BA%90%E5%8C%AE%E4%B9%8F%E5%9E%8B%E5%86%9C%E4%B8%9A%E7%A7%91%E6%8A%80%E5%BC%BA%E5%9B%BD%E7%9A%84%E5%9B%BD%E9%99%85%E7%BB%8F%E9%AA%8C.pdf)：编入《新时代农业科技强国的内涵特征及实现路径研究》课题汇编
+
+
 ### 四、获奖荣誉
 
-➣2024-2025学年 一等奖学金
+:trophy: 2024-2025学年 一等奖学金
 
-➣[“新质青年话发展 百场党课叙华章”2024年度研究生党支部书记微党课大赛 三等奖](https://oa.webvpn.cufe.edu.cn/seeyon/bulData.do?method=bulView&bulId=6169987106816216454&from=list&spaceType=&spaceId=)
+:trophy: [“新质青年话发展 百场党课叙华章”2024年度研究生党支部书记微党课大赛 三等奖](https://oa.webvpn.cufe.edu.cn/seeyon/bulData.do?method=bulView&bulId=6169987106816216454&from=list&spaceType=&spaceId=)
 
-➣[2023北京高校师生服务新时代首都发展“双百行动计划”优秀示范项目](https://mp.weixin.qq.com/s/F1qE-gy40DpEAjXISkhr-A)
+:trophy: [2023北京高校师生服务新时代首都发展“双百行动计划”优秀示范项目](https://mp.weixin.qq.com/s/F1qE-gy40DpEAjXISkhr-A)
 
-➣2023-2024学年 研究生新生学业奖学金
+:trophy: 2023-2024学年 研究生新生学业奖学金
 
 
 ##   2023-至今
 
 ### 一、讲座
 
-[发展中国家现代化过程中的一般经济规律](https://mp.weixin.qq.com/s/SL7OmijlUlS1DWkOYHfY5Q)  （黄少安  2023年10月11日）
+【**20231011 黄少安**】 [发展中国家现代化过程中的一般经济规律](https://mp.weixin.qq.com/s/SL7OmijlUlS1DWkOYHfY5Q) 
 
-[经世济民大讲坛:从向心城市到线上城市](https://mp.weixin.qq.com/s/8Tpf3RmfDAu-qr56Y_SpJw)  （陆铭  2023年10月21日）
+【**20231021  陆铭**】  [经世济民大讲坛:从向心城市到线上城市](https://mp.weixin.qq.com/s/8Tpf3RmfDAu-qr56Y_SpJw)
 
-[城乡融合研究专题学术沙龙](https://mp.weixin.qq.com/s/Y32UpGlG3u-b_UKeGI6F1g)  （陆铭--大国的城乡融合：城市化和相关改革的进展与问题；郭冬梅--城市房价与留守儿童）
+【**20231020  陆铭 郭冬梅**】  [城乡融合研究专题学术沙龙](https://mp.weixin.qq.com/s/Y32UpGlG3u-b_UKeGI6F1g) 
 
-博士生学术道德和科研创新专题会议（2023年11月3日）
-
-[经世济民大讲坛：学深 悟透 做实习近平总书记关于“三农”工作的重要论述](https://mp.weixin.qq.com/s/0YVm0EXDeehb_ya6WLJ1lA)  （金文成 2023年12月01日）
+【**20231201 金文成**】  [经世济民大讲坛：学深 悟透 做实习近平总书记关于“三农”工作的重要论述](https://mp.weixin.qq.com/s/0YVm0EXDeehb_ya6WLJ1lA)  
 
 
 ### 二、调研
 
-[我是中国研究生，美丽中国研思行：我校研究生赴内蒙古巴彦淖尔开展“服务边疆”乡村振兴暑期社会实践活动](https://mp.weixin.qq.com/s/-tLqctbDA1vuNaYzq7ipMA)
+【**20240726**】  [我是中国研究生，美丽中国研思行：我校研究生赴内蒙古巴彦淖尔开展“服务边疆”乡村振兴暑期社会实践活动](https://mp.weixin.qq.com/s/-tLqctbDA1vuNaYzq7ipMA)
 
-[“重走萍乡红色之路，永葆经世济民本色”-经济学院党务工作骨干赴江西省萍乡市开展培训](https://mp.weixin.qq.com/s/EwEW6Lpk_IpRcYbI2DBL2w)
+【**20240708**】  [经济学院与江西省萍乡市安源区开展校企合作座谈会](https://mp.weixin.qq.com/s/OggkHypwMZNtBXVYH-cc2w)
 
-[经济学院与江西省萍乡市安源区开展校企合作座谈会](https://mp.weixin.qq.com/s/OggkHypwMZNtBXVYH-cc2w)
+【**20240525**】  [经济学院赴江西省萍乡市访企拓岗](https://mp.weixin.qq.com/s/m4UaeprkcKEiZ2ddnlBM6g)
 
-[经济学院赴江西省萍乡市访企拓岗](https://mp.weixin.qq.com/s/m4UaeprkcKEiZ2ddnlBM6g)
+【**20240524**】  [“重走萍乡红色之路，永葆经世济民本色”-经济学院党务工作骨干赴江西省萍乡市开展培训](https://mp.weixin.qq.com/s/EwEW6Lpk_IpRcYbI2DBL2w)
 
-[经济学拔尖基地师生深入数字农业企业开展“切问笃行”系列实践调研活动](https://mp.weixin.qq.com/s/6nRt4_76XgYJHc2Huw8YZg)
+【**20240117**】  [探索“城市-乡村”要素融合促进乡村振兴新模式——北京市“百千工程”示范村辛庄村调研纪实](https://mp.weixin.qq.com/s/DhCQkH6Rj3yXI8o5UAx9mQ)
 
-[探索“城市-乡村”要素融合促进乡村振兴新模式——北京市“百千工程”示范村辛庄村调研纪实](https://mp.weixin.qq.com/s/DhCQkH6Rj3yXI8o5UAx9mQ)
+【**20240112**】  [“我来雄安了”—首都大学生雄安行](https://mp.weixin.qq.com/s/mCQLrA0ZZuJ5zciYKrcihA)
 
-[《学探寻京郊乡村产业现代化发展模式--以平谷峪口镇东樊各庄村为例》调研](https://mp.weixin.qq.com/s/TY7MyAFzyA1ZnrnFHx5k7Q)
+【**20231126**】  [《学探寻京郊乡村产业现代化发展模式--以平谷峪口镇东樊各庄村为例》调研](https://mp.weixin.qq.com/s/TY7MyAFzyA1ZnrnFHx5k7Q)
 
-[“我来雄安了”—首都大学生雄安行](https://mp.weixin.qq.com/s/mCQLrA0ZZuJ5zciYKrcihA)
-
+【**20231121**】  [经济学拔尖基地师生深入数字农业企业开展“切问笃行”系列实践调研活动](https://mp.weixin.qq.com/s/6nRt4_76XgYJHc2Huw8YZg)
 
 ### 三、论坛
 
-[第七届未来经济学家论坛](https://mp.weixin.qq.com/s/cTVVuY8e0ADAMt82ptwcuQ)  分论坛汇报
+【**20241201 汇报**】     [第七届未来经济学家论坛](https://mp.weixin.qq.com/s/cTVVuY8e0ADAMt82ptwcuQ) 
 
-[中国青年农业经济学家论坛暨北京农业经济学会与山东省乡村振兴研究会2023联合年会](https://mp.weixin.qq.com/s/1oSxudDCfU-sfmmEhy0eaA) 海报展示
+【**20231217 海报展示**】  [中国青年农业经济学家论坛暨北京农业经济学会与山东省乡村振兴研究会2023联合年会](https://mp.weixin.qq.com/s/1oSxudDCfU-sfmmEhy0eaA)
 
-[第五届中国城市经济学者论坛（2023）](https://mp.weixin.qq.com/s/29Qgmbb7MAL01S4h8yQSCg)  旁听学习
-
-[中央财经大学经济学科建设高峰论坛](https://mp.weixin.qq.com/s/MoM0qPo4l3DqNTbkjW7fSg)  旁听学习
+【**20231022 旁听**】    [第五届中国城市经济学者论坛（2023）](https://mp.weixin.qq.com/s/29Qgmbb7MAL01S4h8yQSCg)
 
 
 
@@ -120,7 +113,8 @@
 
 
 
-##  硕士研究生  
+
+##  硕士研究生  :mortar_board:
 *哈尔滨理工大学  经济与管理学院*
 
 

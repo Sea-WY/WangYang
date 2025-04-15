@@ -59,7 +59,7 @@
 
 ### 四、获奖荣誉
 
-:trophy:  [2024年度中央财经大学优秀团员荣誉称号](https://oa-443.webvpn.cufe.edu.cn/seeyon/bulData.do?method=bulView&bulId=6508348168125169839)
+:trophy:  [2024年度中央财经大学优秀团员荣誉称号]([https://youth.cufe.edu.cn/info/1005/23037.htm])
 
 :trophy: 2024-2025学年 一等奖学金
 

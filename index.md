@@ -1,8 +1,9 @@
-# Yang Wang's Homepage
+# Yang Wang's Homepage                   [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](Emoji.md)
+
 
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=(%22Hello%2C%20World!%22);小汪博士祝您诸事顺遂!&center=true&size=27"> </a> </h1>
 
-这是我的主页  ![](https://komarev.com/ghpvc/?username=Sea-WY)
+这是我的主页  ![](https://github.com/Sea-WY/Sea-WY)  
 
 ![](https://github.com/Sea-WY/Sea-WY.github.io/blob/main/%E5%85%B6%E4%BB%96/github.svg)You can use the [editor on GitHub](https://github.com/Sea-WY/Sea-WY.github.io/blob/main/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -14,14 +15,14 @@
 
 
 ###    一、学术论文
-[***新型城镇化对扩大内需的影响机制研究——中国257个地级以上城市的数据实证](https://github.com/Sea-WY/Sea-WY.github.io/blob/main/%E6%96%B0%E5%9E%8B%E5%9F%8E%E9%95%87%E5%8C%96%E5%AF%B9%E6%89%A9%E5%A4%A7%E5%86%85%E9%9C%80%E7%9A%84%E5%BD%B1%E5%93%8D...7%E4%B8%AA%E5%9C%B0%E7%BA%A7%E4%BB%A5%E4%B8%8A%E5%9F%8E%E5%B8%82%E7%9A%84%E6%95%B0%E6%8D%AE%E5%AE%9E%E8%AF%81_%E4%BA%8E%E7%88%B1%E8%8A%9D.pdf)    (with 于爱芝) [《城市发展研究》，2024(01)]
+[***《新型城镇化对扩大内需的影响机制研究——中国257个地级以上城市的数据实证》](https://github.com/Sea-WY/Sea-WY.github.io/blob/main/%E6%96%B0%E5%9E%8B%E5%9F%8E%E9%95%87%E5%8C%96%E5%AF%B9%E6%89%A9%E5%A4%A7%E5%86%85%E9%9C%80%E7%9A%84%E5%BD%B1%E5%93%8D...7%E4%B8%AA%E5%9C%B0%E7%BA%A7%E4%BB%A5%E4%B8%8A%E5%9F%8E%E5%B8%82%E7%9A%84%E6%95%B0%E6%8D%AE%E5%AE%9E%E8%AF%81_%E4%BA%8E%E7%88%B1%E8%8A%9D.pdf)    (with 于爱芝) 《城市发展研究》，2024(01)
 
 **摘要:** 基于“国家新型城镇化综合试点政策”构建准自然实验，运用2010～2019年全国市辖区统计数据以及多期DID分析方法，实证检验了新发展格局下新型城镇化试点对扩大内需的影响。研究结果表明，新型城镇化试点政策有效提升了居民消费，扩大了社会投资和带动政府消费。机制检验发现，新型城镇化试点通过收入效应、财富效应和公共资本效应加快释放内需潜力。进一步研究显示，新型城镇化试点政策效应受城市人口规模的影响，表现出双门槛效应；同时，地方政府财政压力及国家级城市群的设立也会对新型城镇化试点政策成效产生差异化影响。
 
 **关键词:** 		新型城镇化试点政策;扩大内需;多期DID;异质性处理效应
 
 
-[*2023年蛋鸡产业发展情况、未来发展趋势及建议](https://github.com/Sea-WY/Sea-WY.github.io/blob/main/2023%E5%B9%B4%E8%9B%8B%E9%B8%A1%E4%BA%A7%E4%B8%9A%E5%8F%91%E5%B1%95%E6%83%85%E5%86%B5%E3%80%81%E6%9C%AA%E6%9D%A5%E5%8F%91%E5%B1%95%E8%B6%8B%E5%8A%BF%E5%8F%8A%E5%BB%BA%E8%AE%AE_%E5%AD%99%E4%BB%8E%E4%BD%BC.pdf)    (with 孙从佼 于爱芝 杨宁) [《中国畜牧杂志》，2024(02)]
+[*《2023年蛋鸡产业发展情况、未来发展趋势及建议》](https://github.com/Sea-WY/Sea-WY.github.io/blob/main/2023%E5%B9%B4%E8%9B%8B%E9%B8%A1%E4%BA%A7%E4%B8%9A%E5%8F%91%E5%B1%95%E6%83%85%E5%86%B5%E3%80%81%E6%9C%AA%E6%9D%A5%E5%8F%91%E5%B1%95%E8%B6%8B%E5%8A%BF%E5%8F%8A%E5%BB%BA%E8%AE%AE_%E5%AD%99%E4%BB%8E%E4%BD%BC.pdf) :trophy: [高被引论文、高下载论文](https://github.com/Sea-WY/Sea-WY/blob/main/%E5%85%B6%E4%BB%96/%E5%85%A5%E9%80%89%E8%AF%81%E4%B9%A6.jpg)    (with 孙从佼 于爱芝 杨宁) 《中国畜牧杂志》，2024(02)
 
 **摘要:** 本文从国际和国内两方面总结了2023年蛋鸡产业生产与贸易概况，并归纳了我国蛋鸡产业技术研发的最新进展，包括遗传改良技术、营养与饲料技术、疾病防控技术、生产与环境控制技术、蛋品质量控制及加工技术等。此外，本文根据2023年度蛋鸡产业发展中存在的一些问题，结合蛋鸡产业下一年度发展趋势的展望，对2024年蛋鸡产业发展提出了相应建议。
 
@@ -44,6 +45,7 @@
 
 ### 三、课题报告
 
+
 【**20240825**】  [多元化主体参与：乌拉特前旗林果经济发展及优化理路](https://github.com/Sea-WY/Sea-WY.github.io/blob/main/%E6%8A%A5%E5%91%8A/%E5%A4%9A%E5%85%83%E5%8C%96%E4%B8%BB%E4%BD%93%E5%8F%82%E4%B8%8E%EF%BC%9A%E4%B9%8C%E6%8B%89%E7%89%B9%E5%89%8D%E6%97%97%E6%9E%97%E6%9E%9C%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E5%8F%8A%E4%BC%98%E5%8C%96%E7%90%86%E8%B7%AF.pdf)：第三届中央财经大学乡村振兴调研大赛调研报告汇编
 
  【**20240828**】  [影响农业科技创新体系整体效能核心问题](https://github.com/Sea-WY/Sea-WY.github.io/blob/main/%E6%8A%A5%E5%91%8A/%E5%BD%B1%E5%93%8D%E5%86%9C%E4%B8%9A%E7%A7%91%E6%8A%80%E5%88%9B%E6%96%B0%E4%BD%93%E7%B3%BB%E6%95%B4%E4%BD%93%E6%95%88%E8%83%BD%E6%A0%B8%E5%BF%83%E9%97%AE%E9%A2%98.pdf)：列入[农业农村部着力提升农业科技创新体系整体效能](http://www.njhs.moa.gov.cn/gzdt/202411/t20241126_6466918.htm)会议审议并原则通过
@@ -57,6 +59,14 @@
 
 ### 四、获奖荣誉
 
+:crown: 2023-2025学年 党支部书记兼纪律委员
+
+:crown: 2023-2024学年 校党支部书记联席会 理研部委员
+
+:crown: 2023-2024学年 团支部书记
+
+:trophy:  [2024年度中央财经大学优秀团员荣誉称号](https://youth.cufe.edu.cn/info/1005/23037.htm)
+
 :trophy: 2024-2025学年 一等奖学金
 
 :trophy: [“新质青年话发展 百场党课叙华章”2024年度研究生党支部书记微党课大赛 三等奖](https://oa.webvpn.cufe.edu.cn/seeyon/bulData.do?method=bulView&bulId=6169987106816216454&from=list&spaceType=&spaceId=)
@@ -66,9 +76,9 @@
 :trophy: 2023-2024学年 研究生新生学业奖学金
 
 
-##   2023-至今
+##   学术、实践活动
 
-### 一、讲座
+### 1、讲座
 
 【**20231011 黄少安**】 [发展中国家现代化过程中的一般经济规律](https://mp.weixin.qq.com/s/SL7OmijlUlS1DWkOYHfY5Q) 
 
@@ -79,9 +89,11 @@
 【**20231201 金文成**】  [经世济民大讲坛：学深 悟透 做实习近平总书记关于“三农”工作的重要论述](https://mp.weixin.qq.com/s/0YVm0EXDeehb_ya6WLJ1lA)  
 
 
-### 二、调研
+### 2、调研
 
-【**20240726**】  [我是中国研究生，美丽中国研思行：我校研究生赴内蒙古巴彦淖尔开展“服务边疆”乡村振兴暑期社会实践活动](https://mp.weixin.qq.com/s/-tLqctbDA1vuNaYzq7ipMA)
+【**20250329**】  [经济学院师生赴河北雄安新区开展实践调研](https://econ.cufe.edu.cn/info/1060/8456.htm)
+
+【**20240726**】  [我是中国研究生，美丽中国研思行：内蒙古巴彦淖尔开展“服务边疆”乡村振兴暑期社会实践活动](https://mp.weixin.qq.com/s/-tLqctbDA1vuNaYzq7ipMA)
 
 【**20240708**】  [经济学院与江西省萍乡市安源区开展校企合作座谈会](https://mp.weixin.qq.com/s/OggkHypwMZNtBXVYH-cc2w)
 
@@ -97,18 +109,13 @@
 
 【**20231121**】  [经济学拔尖基地师生深入数字农业企业开展“切问笃行”系列实践调研活动](https://mp.weixin.qq.com/s/6nRt4_76XgYJHc2Huw8YZg)
 
-### 三、论坛
+### 3、论坛
 
 【**20241201 汇报**】     [第七届未来经济学家论坛](https://mp.weixin.qq.com/s/cTVVuY8e0ADAMt82ptwcuQ) 
 
 【**20231217 海报展示**】  [中国青年农业经济学家论坛暨北京农业经济学会与山东省乡村振兴研究会2023联合年会](https://mp.weixin.qq.com/s/1oSxudDCfU-sfmmEhy0eaA)
 
 【**20231022 旁听**】    [第五届中国城市经济学者论坛（2023）](https://mp.weixin.qq.com/s/29Qgmbb7MAL01S4h8yQSCg)
-
-
-
-
-
 
 
 
@@ -151,8 +158,12 @@
 
 ###  三、获奖荣誉
 
-**2023年黑龙江省普通高校“优秀毕业生”**；2023届“优秀研究生”；2020-2021学年“优秀研究生”；
+**2023年黑龙江省普通高校 “ 优秀毕业生 ”**；
 
-2020届“优秀毕业生”；“优秀毕业论文”、“优秀团员”、“优秀学生干部”、“三好学生”荣誉称号。
+2023届 “ 优秀研究生 ”；2020届 “ 优秀毕业生 ”；
+
+2020-2021学年 “ 优秀研究生 ”；
+
+“优秀毕业论文”、“优秀团员”、“优秀学生干部”、“三好学生”荣誉称号。
 
 “科技活动先进个人”；GMC 全国二等奖、三等奖；第 18 届中国技术经济学会“优秀志愿者”。

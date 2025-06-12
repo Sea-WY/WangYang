@@ -54,13 +54,21 @@
 【**20230810**】  [资源匮乏型农业科技强国的国际经验](https://github.com/Sea-WY/Sea-WY.github.io/blob/main/%E6%8A%A5%E5%91%8A/%E8%B5%84%E6%BA%90%E5%8C%AE%E4%B9%8F%E5%9E%8B%E5%86%9C%E4%B8%9A%E7%A7%91%E6%8A%80%E5%BC%BA%E5%9B%BD%E7%9A%84%E5%9B%BD%E9%99%85%E7%BB%8F%E9%AA%8C.pdf)：编入《新时代农业科技强国的内涵特征及实现路径研究》课题汇编
 
 
-### 三、获奖荣誉
+### 三、任职荣誉
+
+#### 1、任职
+
+:crown: 2024-2025学年 本科生《微观经济学》课程     助教、助研
+
+:crown: 2023-2024学年 研究生《高级微观经济学》课程  助教
 
 :crown: 2023-2025学年 党支部书记兼纪律委员
 
-:crown: 2023-2024学年 校党支部书记联席会 理研部委员
+:crown: [2023-2024学年 校党支部书记联席会 理研部委员](https://github.com/Sea-WY/WangYang/blob/main/%E5%85%B6%E4%BB%96/WechatIMG36133.jpg)
 
 :crown: 2023-2024学年 团支部书记
+
+#### 2、荣誉
 
 :trophy:  [2024年度中央财经大学优秀团员荣誉称号](https://youth.cufe.edu.cn/info/1005/23037.htm)
 

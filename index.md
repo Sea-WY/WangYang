@@ -70,6 +70,8 @@
 
 #### 2、荣誉
 
+:trophy:  [2023-2025年度中央财经大学优秀基层党组织](https://econ.cufe.edu.cn/info/1060/8594.htm)
+
 :trophy:  [2024年度中央财经大学优秀团员荣誉称号](https://youth.cufe.edu.cn/info/1005/23037.htm)
 
 :trophy: 2024-2025学年 一等奖学金

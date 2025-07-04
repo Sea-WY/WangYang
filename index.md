@@ -51,7 +51,7 @@
 ### 二、课题报告
 
 
-【**20240825**】  [多元化主体参与：乌拉特前旗林果经济发展及优化理路](https://github.com/Sea-WY/Sea-WY.github.io/blob/main/%E6%8A%A5%E5%91%8A/%E5%A4%9A%E5%85%83%E5%8C%96%E4%B8%BB%E4%BD%93%E5%8F%82%E4%B8%8E%EF%BC%9A%E4%B9%8C%E6%8B%89%E7%89%B9%E5%89%8D%E6%97%97%E6%9E%97%E6%9E%9C%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E5%8F%8A%E4%BC%98%E5%8C%96%E7%90%86%E8%B7%AF.pdf)：第三届中央财经大学乡村振兴调研大赛调研报告汇编
+【**20240825**】  [多元化主体参与：乌拉特前旗林果经济发展及优化理路](https://github.com/Sea-WY/Sea-WY.github.io/blob/main/%E6%8A%A5%E5%91%8A/%E5%A4%9A%E5%85%83%E5%8C%96%E4%B8%BB%E4%BD%93%E5%8F%82%E4%B8%8E%EF%BC%9A%E4%B9%8C%E6%8B%89%E7%89%B9%E5%89%8D%E6%97%97%E6%9E%97%E6%9E%9C%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E5%8F%8A%E4%BC%98%E5%8C%96%E7%90%86%E8%B7%AF.pdf)：收录于[《“百县千村”高校赋能乡村振兴实践报告》](https://e.tb.cn/h.hgT8tN7p9qfu1YI?tk=fHzTVzoWXdQ HU591)，由中国财政经济出版社出版。
 
  【**20240828**】  [影响农业科技创新体系整体效能核心问题](https://github.com/Sea-WY/Sea-WY.github.io/blob/main/%E6%8A%A5%E5%91%8A/%E5%BD%B1%E5%93%8D%E5%86%9C%E4%B8%9A%E7%A7%91%E6%8A%80%E5%88%9B%E6%96%B0%E4%BD%93%E7%B3%BB%E6%95%B4%E4%BD%93%E6%95%88%E8%83%BD%E6%A0%B8%E5%BF%83%E9%97%AE%E9%A2%98.pdf)：列入[农业农村部着力提升农业科技创新体系整体效能](http://www.njhs.moa.gov.cn/gzdt/202411/t20241126_6466918.htm)会议审议并原则通过
 
